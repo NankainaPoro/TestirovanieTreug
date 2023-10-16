@@ -1,0 +1,11 @@
+C:\Users\Daniil\Desktop\TreygolVak\TreygolVak\bin\Debug\TreygolVak.exe.config
+C:\Users\Daniil\Desktop\TreygolVak\TreygolVak\bin\Debug\TreygolVak.exe
+C:\Users\Daniil\Desktop\TreygolVak\TreygolVak\bin\Debug\TreygolVak.pdb
+C:\Users\Daniil\Desktop\TreygolVak\TreygolVak\obj\Debug\TreygolVak.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\TreygolVak\TreygolVak\obj\Debug\TreygolVak.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniil\Desktop\TreygolVak\TreygolVak\obj\Debug\TreygolVak.Form.resources
+C:\Users\Daniil\Desktop\TreygolVak\TreygolVak\obj\Debug\TreygolVak.Properties.Resources.resources
+C:\Users\Daniil\Desktop\TreygolVak\TreygolVak\obj\Debug\TreygolVak.csproj.GenerateResource.cache
+C:\Users\Daniil\Desktop\TreygolVak\TreygolVak\obj\Debug\TreygolVak.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\TreygolVak\TreygolVak\obj\Debug\TreygolVak.exe
+C:\Users\Daniil\Desktop\TreygolVak\TreygolVak\obj\Debug\TreygolVak.pdb
